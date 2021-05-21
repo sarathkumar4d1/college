@@ -1,0 +1,23 @@
+.inputs{
+    margin: 15px 0;
+}
+.inputs .MuiTextField-root{
+    width: 100%;
+}
+.head_college{
+    border-radius: 3px;
+    border: 1px solid rgb(10, 10, 10);
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(96, 143, 244);
+    color: whitesmoke;
+    font-weight: 800;
+    margin: 0 3em;
+}
+.logoutButton{
+    position: absolute;
+    top: 1%;
+    right: 60px;
+    background-color: thistle;
+    background: silver;
+}
